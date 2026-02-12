@@ -9,3 +9,5 @@ print(f"sum of {num1} and {num2} is :{add}")
 # code for get square root of num.
 print(f"square root of {num1} is {num1*num1}")
 print(f"square root of {num2} is {num2*num2}")
+
+# this is only simple addition
